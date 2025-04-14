@@ -19,4 +19,5 @@ getFullResponseFromAPI(false)
     .then(response => console.log(response)) // Won't be called in this case
     .catch(error => console.error(error));  // Logs: "Error: API call failed!"
 
+
     
