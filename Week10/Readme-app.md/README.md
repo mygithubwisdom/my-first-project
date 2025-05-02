@@ -43,6 +43,9 @@ Run the server:node server.js
 
 Open your browser and go to http://localhost:8080
 
+![Screenshot (1145)](https://github.com/user-attachments/assets/f2637792-ddeb-4f0b-bf09-44c267238b30)
+
+
 Notes
 You can change the port by modifying the value in .listen(8080).
 
