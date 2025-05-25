@@ -32,7 +32,7 @@ res.write(...): Writes the response body.
 
 res.end(): Ends the response.
 
-.listen(8080): Starts the server and listens for incoming connections on port 8080.
+.listen(8080): Starts the server and listens for incoming connections on port ****.
 
 Getting Started
 Ensure Node.js is installed on your system.
@@ -41,12 +41,9 @@ Save the script as server.js.
 
 Run the server:node server.js
 
-Open your browser and go to http://localhost:8080
-
-![Screenshot (1145)](https://github.com/user-attachments/assets/f2637792-ddeb-4f0b-bf09-44c267238b30)
-
+Open your browser and go to http://localhost:****
 
 Notes
-You can change the port by modifying the value in .listen(8080).
+You can change the port by modifying the value in .listen(****).
 
 This is a minimal example. In production, consider using a framework like Express.js for more features and cleaner routing.
