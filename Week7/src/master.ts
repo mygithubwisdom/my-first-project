@@ -1,1 +1,0 @@
-let temprature = 32;
